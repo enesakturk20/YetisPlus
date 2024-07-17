@@ -1,0 +1,30 @@
+/* src/pages/LoginPage.css */
+.login-page {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.form-group {
+  margin-bottom: 15px;
+}
+
+.login-container {
+    max-width: 400px;
+    margin: auto;
+    padding: 20px;
+    background-color: white;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    border-radius: 5px;
+    margin-top: 100px;
+  }
+  
+  .login-container input {
+    width: 100%;
+  }
+  
+  .login-container button {
+    width: 100%;
+    margin-top: 10px;
+  }
+  

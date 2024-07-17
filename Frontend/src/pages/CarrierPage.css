@@ -1,0 +1,19 @@
+/* src/pages/CarrierPage.css */
+.carrier-page {
+    padding: 20px;
+  }
+  
+  .carrier-page button {
+    display: block;
+    margin: 20px 0;
+  }
+  
+  .assigned-orders {
+    margin: 20px 0;
+  }
+  
+  .assigned-orders li {
+    padding: 10px;
+    border-bottom: 1px solid #ccc;
+  }
+  

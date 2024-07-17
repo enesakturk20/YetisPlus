@@ -1,0 +1,31 @@
+/* Navbar container */
+.navbar {
+    background-color: #333;
+    padding: 10px;
+  }
+  
+  /* Navbar list */
+  .navbar-list {
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+    display: flex;
+    justify-content: space-around;
+  }
+  
+  /* Navbar item */
+  .navbar-item {
+    margin: 0;
+  }
+  
+  /* Navbar link */
+  .navbar-link {
+    color: white;
+    text-decoration: none;
+    font-size: 16px;
+  }
+  
+  .navbar-link:hover {
+    text-decoration: underline;
+  }
+  

@@ -1,0 +1,19 @@
+/* src/pages/UserPage.css */
+.user-page {
+    padding: 20px;
+  }
+  
+  .order-list {
+    margin: 20px 0;
+  }
+  
+  .order-list li {
+    padding: 10px;
+    border-bottom: 1px solid #ccc;
+  }
+  
+  .order-list li:hover {
+    background-color: #f1f1f1;
+    cursor: pointer;
+  }
+  
